@@ -7,7 +7,7 @@
 - Web Introduction
 
 ### Dev Tools
-- Git
+- [Git](https://rogerdudler.github.io/git-guide/)
 - HTML 5, CSS 3 - (Quiz & Hands On Project)
 - Javscript - (Quiz & Hands On Project)
 - Python - (Quiz & Hands On Project)
